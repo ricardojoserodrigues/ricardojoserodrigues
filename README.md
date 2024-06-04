@@ -7,7 +7,7 @@
 
 - 🔭 Cursando Engenharia de Software
 
-- 🌱 Cursos Faculdade e Plataformas: Inglês, EXIN, Bootcamps DIO e Udemy.
+- 🌱 Cursos Faculdade e Plataformas: Anki e Duolingo Inglês, DIO e Udemy.
 
 - 📫 Abaixo encontrará meus contatos sociais. 
 
