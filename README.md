@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou o Ricardo 👋
 
 <!--
 **ricardojoserodrigues/ricardojoserodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
